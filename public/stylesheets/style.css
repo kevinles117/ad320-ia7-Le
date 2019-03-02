@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Times New Roman", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#route1{
+  height: 250px;
+  width: 600px;
+  background-color: #FF0000;
+
+}

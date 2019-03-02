@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  script(src="/javascripts/route1.js")
+  h1=route1
+  div.route1(id="route1" onclick="javascript:myFunction();")
+
+  p This page is for Route1, Click Event! #{title}
